@@ -1,6 +1,6 @@
 # logs_parser
 
-![alt text](http://plariumraid.com/files/findmailpass.png)
+![alt text](https://plariumraid.com/files/findmailpass.png)
 
 # USAGE
 
